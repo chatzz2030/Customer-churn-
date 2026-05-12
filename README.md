@@ -3,7 +3,11 @@
 A Machine Learning project that predicts whether a telecom customer will churn (leave the service), built on the **IBM Telco Customer Churn** dataset. Includes a full EDA pipeline, two trained classifiers, and an interactive **Streamlit web app**.
 
 ---
+## 🌐 Live Demo
 
+🚀 The project demo is live here: https://customer-churn-analysiss.streamlit.app/
+
+---
 
 
 ## 📌 Problem Statement
