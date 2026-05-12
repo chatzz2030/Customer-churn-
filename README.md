@@ -84,7 +84,7 @@ cd c:\Users\user\OneDrive\Desktop\churn
 streamlit run app.py
 ```
 
-The app will open at **http://localhost:8501**
+The app will open at https://customer-churn-analysiss.streamlit.app/
 
 ### App Features
 - 🎛️ **Sidebar inputs** — all 19 customer features with sliders & dropdowns
