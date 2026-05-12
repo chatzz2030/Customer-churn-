@@ -7,12 +7,7 @@ A Machine Learning project that predicts whether a telecom customer will churn (
 ## 🗂️ Project Structure
 
 ```
-churn/
-├── Customer_Churn_Prediction.ipynb  # Full Colab notebook (EDA + training)
-├── model.pkl                        # Saved Logistic Regression model (joblib)
-├── app.py                           # Streamlit web application
-├── README.md                        # This file
-└── INTERVIEW_PREP.md                # Interview Q&A guide
+
 ```
 
 ---
