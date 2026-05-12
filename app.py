@@ -319,19 +319,7 @@ with col_left:
         """, unsafe_allow_html=True)
     st.markdown("</div>", unsafe_allow_html=True)
 
-    # ── About the Project ─────────────────────────────────────────────────────
-    st.markdown('<div class="main-card">', unsafe_allow_html=True)
-    st.markdown('<div class="section-header">🔬 About This Project</div>', unsafe_allow_html=True)
-    st.markdown("""
-    <ul style="color:#cbd5e1; line-height:1.9; padding-left:1.2rem">
-        <li><b>Dataset:</b> IBM Telco Customer Churn (7,032 customers, 21 features)</li>
-        <li><b>EDA:</b> Pie chart of churn rate (~26%), contract type vs churn bar chart, tenure histogram, monthly charges KDE</li>
-        <li><b>Pre-processing:</b> Dropped customerID, converted TotalCharges to numeric, dropped NaNs, one-hot encoded categoricals, StandardScaler on numericals</li>
-        <li><b>Models trained:</b> Logistic Regression (80.4% acc) &amp; Random Forest (79.0% acc)</li>
-        <li><b>Saved model:</b> <code>model.pkl</code> (Logistic Regression via joblib)</li>
-    </ul>
-    """, unsafe_allow_html=True)
-    st.markdown("</div>", unsafe_allow_html=True)
+
 
 with col_right:
     # ── Prediction Result ─────────────────────────────────────────────────────
