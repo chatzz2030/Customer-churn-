@@ -4,13 +4,7 @@ A Machine Learning project that predicts whether a telecom customer will churn (
 
 ---
 
-## 🗂️ Project Structure
 
-```
-
-```
-
----
 
 ## 📌 Problem Statement
 
