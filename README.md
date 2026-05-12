@@ -73,17 +73,6 @@ joblib.dump(model, 'model.pkl')
 
 ## 🚀 Running the Streamlit App
 
-### Prerequisites
-```bash
-pip install streamlit scikit-learn pandas numpy
-```
-
-### Launch
-```bash
-cd c:\Users\user\OneDrive\Desktop\churn
-streamlit run app.py
-```
-
 The app will open at https://customer-churn-analysiss.streamlit.app/
 
 ### App Features
