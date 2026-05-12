@@ -422,11 +422,4 @@ with col_right:
     """, unsafe_allow_html=True)
     st.markdown("</div>", unsafe_allow_html=True)
 
-# ─── Footer ───────────────────────────────────────────────────────────────────
-st.markdown("---")
-st.markdown("""
-<div style="text-align:center; color:#475569; font-size:0.85rem; padding-bottom:1rem">
-    Customer Churn Predictor · Logistic Regression · IBM Telco Dataset<br>
-    Built with ❤️ using Streamlit
-</div>
-""", unsafe_allow_html=True)
+
